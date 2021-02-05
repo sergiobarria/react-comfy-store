@@ -66,7 +66,7 @@ const Wrapper = styled.article`
   }
   img {
     width: 100%;
-    height: 100%;
+    height: 75px;
     display: block;
     border-radius: var(--radius);
     object-fit: cover;
@@ -153,7 +153,7 @@ const Wrapper = styled.article`
     align-items: center;
     grid-template-rows: 75px;
     img {
-      height: 100%;
+      height: 75px;
     }
     .title {
       height: 100%;
